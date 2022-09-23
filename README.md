@@ -1,2 +1,2 @@
 # Tactial gloves
-among us balls
+Gloves
